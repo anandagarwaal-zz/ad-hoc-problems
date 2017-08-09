@@ -1,0 +1,21 @@
+Qubole
+1.  Given an array of unsorted integers, arrange them in such a order that first element is 
+    first maximum, second element is first minimum, third element is second maximum, fourth 
+    element is second minimum and so on. (No extra space allowed)
+    a = [3, 5, 7, 1, 2, 8, 9, 6]
+    a`= [9, 1, 8, 2, 7, 3, 6, 5]
+2. Bus Pass Problem
+   Cost of 1 day pass 20 INR
+   Cost of a week pass 90 INR
+   Cost of a monthly pass 300 INR
+
+   Given the days that the user will traveling in a month. Find the minimum cost for his/her
+   travel.
+
+CodeNation
+1. Design the usecase of wallet-to-wallet transfer for PayTM like service.
+
+
+Microsoft
+1. Print a binary tree in a spiral fashion.
+2. Join all the same level nodes in a binary tree.    
